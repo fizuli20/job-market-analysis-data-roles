@@ -143,6 +143,13 @@ Charts generated include:
 - Data is loaded dynamically from the Hugging Face Hub (requires internet connection on first run)
 - Reproducible environment via `requirements.txt` with pinned versions
 
+  
+## 📈 Dashboard
+An interactive Tableau dashboard summarizing key insights from the analysis.
+
+👉 [View Live Dashboard on Tableau Public](https://public.tableau.com/views/Data_Role_Job_Postings2023_Fizuli_Hasanov/Dashboard?:language=en-US&:sid=&:redirect=auth&showOnboarding=true&:display_count=n&:origin=viz_share_link)
+
+
 ## License
 
 This project is licensed under the **MIT License** — see [LICENSE](LICENSE) file for details.
@@ -160,4 +167,5 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fi
 ---
 
 *For questions or to discuss this analysis, feel free to connect.*
+
 
