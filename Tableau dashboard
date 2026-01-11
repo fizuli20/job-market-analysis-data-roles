@@ -1,0 +1,35 @@
+# 📊 Tableau Dashboard – Global Data Roles Job Market
+
+## Overview
+This Tableau dashboard visualizes job postings for data-related roles across different countries.
+
+It enables users to:
+- Explore job demand by country (map)
+- Compare number of jobs per data role
+- Analyze average yearly salaries by role
+- Use interactive filters to focus on specific countries
+
+---
+
+## Key Features
+- 🌍 Interactive world map showing job posting counts
+- 📊 Bar charts for job distribution by role
+- 💰 Average yearly salary comparison
+- 🔎 Country-level filtering across all views
+
+---
+
+## Live Dashboard
+👉 View on Tableau Public:  
+[Click here to view the dashboard](https://public.tableau.com/shared/JMXRF5NM5?:display_count=n&:origin=viz_share_link)
+
+---
+
+## Tools Used
+- Tableau Desktop / Tableau Public
+- Data cleaning & preparation in Python
+
+---
+
+## Notes
+This dashboard is part of my Data Analytics portfolio and complements the Python-based job market analysis project.
